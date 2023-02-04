@@ -13,6 +13,9 @@ Payment wallet Application ER diagram
 
 Er-diagram
 
+![WhatsApp Image 2023-02-04 at 12 04 56 PM](https://user-images.githubusercontent.com/105914381/216753007-2db85dd3-7690-40ab-84ed-4d645b5c6c91.jpeg)
+
+
 Tech Stack
 
 - Java
